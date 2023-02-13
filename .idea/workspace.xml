@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25ec4cf8-9e25-4411-b448-5c90f7e25d6f" name="Changes" comment="" />
+    <list default="true" id="25ec4cf8-9e25-4411-b448-5c90f7e25d6f" name="Changes" comment="6. Меням в файле в гитХабе и локально" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676320846341</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="6. Меням в файле в гитХабе и локально">
+      <created>1676321496668</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676321496668</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +148,7 @@
     <MESSAGE value="3. Внутри что-то меняете. Комитите с помощью Аменд." />
     <MESSAGE value="4.  Проверяете что гит хабе изменился код" />
     <MESSAGE value="squash! 3(+2) и 4 шаги" />
-    <option name="LAST_COMMIT_MESSAGE" value="squash! 3(+2) и 4 шаги" />
+    <MESSAGE value="6. Меням в файле в гитХабе и локально" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. Меням в файле в гитХабе и локально" />
   </component>
 </project>
